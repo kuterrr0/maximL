@@ -1,0 +1,11 @@
+C:\Users\CORSAIR CARBIDE 275R\source\repos\Лаба333333\Лаба333333\bin\Debug\Лаба333333.exe.config
+C:\Users\CORSAIR CARBIDE 275R\source\repos\Лаба333333\Лаба333333\bin\Debug\Лаба333333.exe
+C:\Users\CORSAIR CARBIDE 275R\source\repos\Лаба333333\Лаба333333\bin\Debug\Лаба333333.pdb
+C:\Users\CORSAIR CARBIDE 275R\source\repos\Лаба333333\Лаба333333\obj\Debug\Лаба333333.csproj.AssemblyReference.cache
+C:\Users\CORSAIR CARBIDE 275R\source\repos\Лаба333333\Лаба333333\obj\Debug\Лаба333333.csproj.SuggestedBindingRedirects.cache
+C:\Users\CORSAIR CARBIDE 275R\source\repos\Лаба333333\Лаба333333\obj\Debug\Лаба333333.Form1.resources
+C:\Users\CORSAIR CARBIDE 275R\source\repos\Лаба333333\Лаба333333\obj\Debug\Лаба333333.Properties.Resources.resources
+C:\Users\CORSAIR CARBIDE 275R\source\repos\Лаба333333\Лаба333333\obj\Debug\Лаба333333.csproj.GenerateResource.cache
+C:\Users\CORSAIR CARBIDE 275R\source\repos\Лаба333333\Лаба333333\obj\Debug\Лаба333333.csproj.CoreCompileInputs.cache
+C:\Users\CORSAIR CARBIDE 275R\source\repos\Лаба333333\Лаба333333\obj\Debug\Лаба333333.exe
+C:\Users\CORSAIR CARBIDE 275R\source\repos\Лаба333333\Лаба333333\obj\Debug\Лаба333333.pdb
