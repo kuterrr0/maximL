@@ -1,0 +1,11 @@
+C:\Users\CORSAIR CARBIDE 275R\source\repos\laba 4444\laba 4444\bin\Debug\laba 4444.exe.config
+C:\Users\CORSAIR CARBIDE 275R\source\repos\laba 4444\laba 4444\bin\Debug\laba 4444.exe
+C:\Users\CORSAIR CARBIDE 275R\source\repos\laba 4444\laba 4444\bin\Debug\laba 4444.pdb
+C:\Users\CORSAIR CARBIDE 275R\source\repos\laba 4444\laba 4444\obj\Debug\laba 4444.csproj.AssemblyReference.cache
+C:\Users\CORSAIR CARBIDE 275R\source\repos\laba 4444\laba 4444\obj\Debug\laba 4444.csproj.SuggestedBindingRedirects.cache
+C:\Users\CORSAIR CARBIDE 275R\source\repos\laba 4444\laba 4444\obj\Debug\laba_4444.Form1.resources
+C:\Users\CORSAIR CARBIDE 275R\source\repos\laba 4444\laba 4444\obj\Debug\laba_4444.Properties.Resources.resources
+C:\Users\CORSAIR CARBIDE 275R\source\repos\laba 4444\laba 4444\obj\Debug\laba 4444.csproj.GenerateResource.cache
+C:\Users\CORSAIR CARBIDE 275R\source\repos\laba 4444\laba 4444\obj\Debug\laba 4444.csproj.CoreCompileInputs.cache
+C:\Users\CORSAIR CARBIDE 275R\source\repos\laba 4444\laba 4444\obj\Debug\laba 4444.exe
+C:\Users\CORSAIR CARBIDE 275R\source\repos\laba 4444\laba 4444\obj\Debug\laba 4444.pdb

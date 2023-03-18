@@ -1,0 +1,10 @@
+C:\Users\CORSAIR CARBIDE 275R\source\repos\MyLibrary\MyLibrary\obj\Debug\MyLibrary.csproj.AssemblyReference.cache
+C:\Users\CORSAIR CARBIDE 275R\source\repos\MyLibrary\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\CORSAIR CARBIDE 275R\source\repos\MyLibrary\MyLibrary\bin\Debug\MyLibrary.dll
+C:\Users\CORSAIR CARBIDE 275R\source\repos\MyLibrary\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\CORSAIR CARBIDE 275R\source\repos\MyLibrary\MyLibrary\obj\Debug\MyLibrary.dll
+C:\Users\CORSAIR CARBIDE 275R\source\repos\MyLibrary\MyLibrary\obj\Debug\MyLibrary.pdb
+C:\Users\CORSAIR CARBIDE 275R\source\repos\MyLibrary\MyLibrary\bin\Debug\WindowsFormsApp666.exe
+C:\Users\CORSAIR CARBIDE 275R\source\repos\MyLibrary\MyLibrary\bin\Debug\WindowsFormsApp666.pdb
+C:\Users\CORSAIR CARBIDE 275R\source\repos\MyLibrary\MyLibrary\bin\Debug\WindowsFormsApp666.exe.config
+C:\Users\CORSAIR CARBIDE 275R\source\repos\MyLibrary\MyLibrary\obj\Debug\MyLibrary.csproj.CopyComplete
