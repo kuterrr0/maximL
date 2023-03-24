@@ -1,0 +1,6 @@
+D:\VisualStudioRepos\Labs\Oper_Syst_Krasil\lab6\WCont\WCont\bin\Debug\WCont.dll
+D:\VisualStudioRepos\Labs\Oper_Syst_Krasil\lab6\WCont\WCont\bin\Debug\WCont.pdb
+D:\VisualStudioRepos\Labs\Oper_Syst_Krasil\lab6\WCont\WCont\obj\Debug\WCont.csproj.AssemblyReference.cache
+D:\VisualStudioRepos\Labs\Oper_Syst_Krasil\lab6\WCont\WCont\obj\Debug\WCont.csproj.CoreCompileInputs.cache
+D:\VisualStudioRepos\Labs\Oper_Syst_Krasil\lab6\WCont\WCont\obj\Debug\WCont.dll
+D:\VisualStudioRepos\Labs\Oper_Syst_Krasil\lab6\WCont\WCont\obj\Debug\WCont.pdb
