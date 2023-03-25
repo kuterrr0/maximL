@@ -1,0 +1,14 @@
+C:\Users\ma32k\source\repos\maxASSs\maxASSs\bin\Debug\net6.0-windows\maxASSs.deps.json
+C:\Users\ma32k\source\repos\maxASSs\maxASSs\bin\Debug\net6.0-windows\maxASSs.dll
+C:\Users\ma32k\source\repos\maxASSs\maxASSs\bin\Debug\net6.0-windows\maxASSs.pdb
+C:\Users\ma32k\source\repos\maxASSs\maxASSs\obj\Debug\net6.0-windows\maxASSs.csproj.AssemblyReference.cache
+C:\Users\ma32k\source\repos\maxASSs\maxASSs\obj\Debug\net6.0-windows\maxASSs.Form1.resources
+C:\Users\ma32k\source\repos\maxASSs\maxASSs\obj\Debug\net6.0-windows\maxASSs.csproj.GenerateResource.cache
+C:\Users\ma32k\source\repos\maxASSs\maxASSs\obj\Debug\net6.0-windows\maxASSs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ma32k\source\repos\maxASSs\maxASSs\obj\Debug\net6.0-windows\maxASSs.AssemblyInfoInputs.cache
+C:\Users\ma32k\source\repos\maxASSs\maxASSs\obj\Debug\net6.0-windows\maxASSs.AssemblyInfo.cs
+C:\Users\ma32k\source\repos\maxASSs\maxASSs\obj\Debug\net6.0-windows\maxASSs.csproj.CoreCompileInputs.cache
+C:\Users\ma32k\source\repos\maxASSs\maxASSs\obj\Debug\net6.0-windows\maxASSs.dll
+C:\Users\ma32k\source\repos\maxASSs\maxASSs\obj\Debug\net6.0-windows\refint\maxASSs.dll
+C:\Users\ma32k\source\repos\maxASSs\maxASSs\obj\Debug\net6.0-windows\maxASSs.pdb
+C:\Users\ma32k\source\repos\maxASSs\maxASSs\obj\Debug\net6.0-windows\ref\maxASSs.dll

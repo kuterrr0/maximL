@@ -1,0 +1,17 @@
+C:\Users\ma32k\source\repos\maxkr1\maxkr1\bin\Debug\net6.0-windows\maxkr1.exe
+C:\Users\ma32k\source\repos\maxkr1\maxkr1\bin\Debug\net6.0-windows\maxkr1.deps.json
+C:\Users\ma32k\source\repos\maxkr1\maxkr1\bin\Debug\net6.0-windows\maxkr1.runtimeconfig.json
+C:\Users\ma32k\source\repos\maxkr1\maxkr1\bin\Debug\net6.0-windows\maxkr1.dll
+C:\Users\ma32k\source\repos\maxkr1\maxkr1\bin\Debug\net6.0-windows\maxkr1.pdb
+C:\Users\ma32k\source\repos\maxkr1\maxkr1\obj\Debug\net6.0-windows\maxkr1.csproj.AssemblyReference.cache
+C:\Users\ma32k\source\repos\maxkr1\maxkr1\obj\Debug\net6.0-windows\maxkr1.Form1.resources
+C:\Users\ma32k\source\repos\maxkr1\maxkr1\obj\Debug\net6.0-windows\maxkr1.csproj.GenerateResource.cache
+C:\Users\ma32k\source\repos\maxkr1\maxkr1\obj\Debug\net6.0-windows\maxkr1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ma32k\source\repos\maxkr1\maxkr1\obj\Debug\net6.0-windows\maxkr1.AssemblyInfoInputs.cache
+C:\Users\ma32k\source\repos\maxkr1\maxkr1\obj\Debug\net6.0-windows\maxkr1.AssemblyInfo.cs
+C:\Users\ma32k\source\repos\maxkr1\maxkr1\obj\Debug\net6.0-windows\maxkr1.csproj.CoreCompileInputs.cache
+C:\Users\ma32k\source\repos\maxkr1\maxkr1\obj\Debug\net6.0-windows\maxkr1.dll
+C:\Users\ma32k\source\repos\maxkr1\maxkr1\obj\Debug\net6.0-windows\refint\maxkr1.dll
+C:\Users\ma32k\source\repos\maxkr1\maxkr1\obj\Debug\net6.0-windows\maxkr1.pdb
+C:\Users\ma32k\source\repos\maxkr1\maxkr1\obj\Debug\net6.0-windows\maxkr1.genruntimeconfig.cache
+C:\Users\ma32k\source\repos\maxkr1\maxkr1\obj\Debug\net6.0-windows\ref\maxkr1.dll
