@@ -1,0 +1,270 @@
+[ 11.04.2023 18:20:20 ] Mouse: Pos: [X: 802, Y: 276] Action: WM_LBUTTONDOWN
+[ 11.04.2023 18:20:20 ] Mouse: Pos: [X: 864, Y: 317] Action: WM_LBUTTONUP
+[ 11.04.2023 18:20:20 ] Mouse: Pos: [X: 864, Y: 317] Action: WM_LBUTTONDOWN
+[ 11.04.2023 18:20:21 ] Mouse: Pos: [X: 795, Y: 297] Action: WM_LBUTTONUP
+[ 11.04.2023 18:20:21 ] Mouse: Pos: [X: 795, Y: 297] Action: WM_LBUTTONDOWN
+[ 11.04.2023 18:20:21 ] Mouse: Pos: [X: 742, Y: 365] Action: WM_LBUTTONUP
+[ 11.04.2023 18:20:22 ] Mouse: Pos: [X: 742, Y: 365] Action: WM_LBUTTONDOWN
+[ 11.04.2023 18:20:22 ] Mouse: Pos: [X: 824, Y: 382] Action: WM_LBUTTONUP
+[ 11.04.2023 18:20:23 ] Mouse: Pos: [X: 734, Y: 455] Action: WM_LBUTTONDOWN
+[ 11.04.2023 18:20:23 ] Mouse: Pos: [X: 734, Y: 455] Action: WM_LBUTTONUP
+[ 11.04.2023 18:20:39 ] Keyboard: VolumeUp
+[ 11.04.2023 18:20:40 ] Keyboard: VolumeUp
+[ 11.04.2023 18:20:40 ] Keyboard: VolumeUp
+[ 11.04.2023 18:20:40 ] Keyboard: VolumeUp
+[ 11.04.2023 18:20:42 ] Mouse: Pos: [X: 1271, Y: 0] Action: WM_LBUTTONDOWN
+[ 11.04.2023 18:20:42 ] Mouse: Pos: [X: 1271, Y: 0] Action: WM_LBUTTONUP
+[ 11.04.2023 18:20:43 ] Mouse: Pos: [X: 1131, Y: 284] Action: WM_MOUSEWHEEL
+[ 11.04.2023 18:20:43 ] Mouse: Pos: [X: 1131, Y: 284] Action: WM_MOUSEWHEEL
+[ 11.04.2023 18:20:43 ] Mouse: Pos: [X: 1131, Y: 284] Action: WM_MOUSEWHEEL
+[ 11.04.2023 18:20:44 ] Mouse: Pos: [X: 1136, Y: 509] Action: WM_MOUSEWHEEL
+[ 11.04.2023 18:20:44 ] Mouse: Pos: [X: 1136, Y: 509] Action: WM_MOUSEWHEEL
+[ 11.04.2023 18:20:47 ] Mouse: Pos: [X: 1136, Y: 509] Action: WM_MOUSEWHEEL
+[ 11.04.2023 18:20:47 ] Mouse: Pos: [X: 1136, Y: 509] Action: WM_MOUSEWHEEL
+[ 11.04.2023 18:20:47 ] Mouse: Pos: [X: 1136, Y: 509] Action: WM_MOUSEWHEEL
+[ 11.04.2023 18:20:47 ] Mouse: Pos: [X: 1136, Y: 509] Action: WM_MOUSEWHEEL
+[ 11.04.2023 18:20:47 ] Mouse: Pos: [X: 1136, Y: 509] Action: WM_MOUSEWHEEL
+[ 11.04.2023 18:20:47 ] Mouse: Pos: [X: 1136, Y: 509] Action: WM_MOUSEWHEEL
+[ 11.04.2023 18:20:48 ] Mouse: Pos: [X: 1136, Y: 509] Action: WM_MOUSEWHEEL
+[ 11.04.2023 18:20:48 ] Mouse: Pos: [X: 1136, Y: 509] Action: WM_MOUSEWHEEL
+[ 11.04.2023 18:20:48 ] Mouse: Pos: [X: 1136, Y: 509] Action: WM_MOUSEWHEEL
+[ 11.04.2023 18:20:51 ] Mouse: Pos: [X: 1136, Y: 509] Action: WM_MOUSEWHEEL
+[ 11.04.2023 18:20:51 ] Mouse: Pos: [X: 1136, Y: 509] Action: WM_MOUSEWHEEL
+[ 11.04.2023 18:20:52 ] Mouse: Pos: [X: 1136, Y: 509] Action: WM_MOUSEWHEEL
+[ 11.04.2023 18:20:52 ] Mouse: Pos: [X: 1136, Y: 509] Action: WM_MOUSEWHEEL
+[ 11.04.2023 18:20:53 ] Mouse: Pos: [X: 1136, Y: 509] Action: WM_LBUTTONDOWN
+[ 11.04.2023 18:20:53 ] Mouse: Pos: [X: 1136, Y: 509] Action: WM_LBUTTONUP
+[ 11.04.2023 18:20:54 ] Mouse: Pos: [X: 722, Y: 501] Action: WM_LBUTTONDOWN
+[ 11.04.2023 18:20:54 ] Mouse: Pos: [X: 722, Y: 501] Action: WM_LBUTTONUP
+[ 11.04.2023 18:20:55 ] Mouse: Pos: [X: 742, Y: 513] Action: WM_LBUTTONDOWN
+[ 11.04.2023 18:20:55 ] Mouse: Pos: [X: 742, Y: 513] Action: WM_LBUTTONUP
+[ 11.04.2023 18:20:55 ] Mouse: Pos: [X: 742, Y: 513] Action: WM_MOUSEWHEEL
+[ 11.04.2023 18:20:55 ] Mouse: Pos: [X: 742, Y: 513] Action: WM_MOUSEWHEEL
+[ 11.04.2023 18:20:55 ] Mouse: Pos: [X: 742, Y: 513] Action: WM_MOUSEWHEEL
+[ 11.04.2023 18:20:55 ] Mouse: Pos: [X: 742, Y: 513] Action: WM_MOUSEWHEEL
+[ 11.04.2023 18:20:55 ] Mouse: Pos: [X: 742, Y: 513] Action: WM_MOUSEWHEEL
+[ 11.04.2023 18:20:56 ] Mouse: Pos: [X: 621, Y: 517] Action: WM_LBUTTONDOWN
+[ 11.04.2023 18:20:57 ] Mouse: Pos: [X: 621, Y: 517] Action: WM_LBUTTONUP
+[ 11.04.2023 18:20:57 ] Mouse: Pos: [X: 587, Y: 539] Action: WM_LBUTTONDOWN
+[ 11.04.2023 18:20:58 ] Mouse: Pos: [X: 587, Y: 539] Action: WM_LBUTTONUP
+[ 11.04.2023 18:20:58 ] Mouse: Pos: [X: 614, Y: 526] Action: WM_LBUTTONDOWN
+[ 11.04.2023 18:20:58 ] Mouse: Pos: [X: 614, Y: 526] Action: WM_LBUTTONUP
+[ 11.04.2023 18:21:03 ] Mouse: Pos: [X: 405, Y: 510] Action: WM_LBUTTONDOWN
+[ 11.04.2023 18:21:04 ] Mouse: Pos: [X: 570, Y: 511] Action: WM_LBUTTONUP
+[ 11.04.2023 18:21:04 ] Mouse: Pos: [X: 636, Y: 513] Action: WM_LBUTTONDOWN
+[ 11.04.2023 18:21:05 ] Mouse: Pos: [X: 636, Y: 513] Action: WM_LBUTTONUP
+[ 11.04.2023 18:21:05 ] Mouse: Pos: [X: 636, Y: 513] Action: WM_MOUSEWHEEL
+[ 11.04.2023 18:21:05 ] Mouse: Pos: [X: 636, Y: 513] Action: WM_MOUSEWHEEL
+[ 11.04.2023 18:21:05 ] Mouse: Pos: [X: 636, Y: 513] Action: WM_MOUSEWHEEL
+[ 11.04.2023 18:21:05 ] Mouse: Pos: [X: 636, Y: 513] Action: WM_MOUSEWHEEL
+[ 11.04.2023 18:21:05 ] Mouse: Pos: [X: 636, Y: 513] Action: WM_MOUSEWHEEL
+[ 11.04.2023 18:21:06 ] Mouse: Pos: [X: 514, Y: 465] Action: WM_LBUTTONDOWN
+[ 11.04.2023 18:21:06 ] Mouse: Pos: [X: 514, Y: 465] Action: WM_LBUTTONUP
+[ 11.04.2023 18:21:07 ] Mouse: Pos: [X: 537, Y: 465] Action: WM_LBUTTONDOWN
+[ 11.04.2023 18:21:07 ] Mouse: Pos: [X: 537, Y: 465] Action: WM_LBUTTONUP
+[ 11.04.2023 18:21:08 ] Mouse: Pos: [X: 657, Y: 491] Action: WM_MOUSEWHEEL
+[ 11.04.2023 18:21:08 ] Mouse: Pos: [X: 657, Y: 491] Action: WM_MOUSEWHEEL
+[ 11.04.2023 18:21:08 ] Mouse: Pos: [X: 657, Y: 491] Action: WM_MOUSEWHEEL
+[ 11.04.2023 18:21:08 ] Mouse: Pos: [X: 657, Y: 491] Action: WM_MOUSEWHEEL
+[ 11.04.2023 18:21:08 ] Mouse: Pos: [X: 657, Y: 491] Action: WM_MOUSEWHEEL
+[ 11.04.2023 18:21:08 ] Mouse: Pos: [X: 657, Y: 491] Action: WM_MOUSEWHEEL
+[ 11.04.2023 18:21:09 ] Mouse: Pos: [X: 526, Y: 527] Action: WM_LBUTTONDOWN
+[ 11.04.2023 18:21:09 ] Mouse: Pos: [X: 526, Y: 527] Action: WM_LBUTTONUP
+[ 11.04.2023 18:21:09 ] Mouse: Pos: [X: 700, Y: 554] Action: WM_MOUSEWHEEL
+[ 11.04.2023 18:21:09 ] Mouse: Pos: [X: 700, Y: 554] Action: WM_MOUSEWHEEL
+[ 11.04.2023 18:21:09 ] Mouse: Pos: [X: 700, Y: 554] Action: WM_MOUSEWHEEL
+[ 11.04.2023 18:21:09 ] Mouse: Pos: [X: 700, Y: 554] Action: WM_MOUSEWHEEL
+[ 11.04.2023 18:21:09 ] Mouse: Pos: [X: 700, Y: 554] Action: WM_MOUSEWHEEL
+[ 11.04.2023 18:21:09 ] Mouse: Pos: [X: 700, Y: 554] Action: WM_MOUSEWHEEL
+[ 11.04.2023 18:21:10 ] Mouse: Pos: [X: 700, Y: 554] Action: WM_MOUSEWHEEL
+[ 11.04.2023 18:21:10 ] Mouse: Pos: [X: 700, Y: 554] Action: WM_MOUSEWHEEL
+[ 11.04.2023 18:21:10 ] Mouse: Pos: [X: 700, Y: 554] Action: WM_MOUSEWHEEL
+[ 11.04.2023 18:21:10 ] Mouse: Pos: [X: 700, Y: 554] Action: WM_MOUSEWHEEL
+[ 11.04.2023 18:21:10 ] Mouse: Pos: [X: 700, Y: 554] Action: WM_MOUSEWHEEL
+[ 11.04.2023 18:21:10 ] Mouse: Pos: [X: 700, Y: 554] Action: WM_MOUSEWHEEL
+[ 11.04.2023 18:21:11 ] Mouse: Pos: [X: 356, Y: 456] Action: WM_LBUTTONDOWN
+[ 11.04.2023 18:21:11 ] Mouse: Pos: [X: 356, Y: 456] Action: WM_LBUTTONUP
+[ 11.04.2023 18:21:12 ] Mouse: Pos: [X: 338, Y: 451] Action: WM_LBUTTONDOWN
+[ 11.04.2023 18:21:12 ] Mouse: Pos: [X: 338, Y: 451] Action: WM_LBUTTONUP
+[ 11.04.2023 18:21:13 ] Keyboard: VolumeUp
+[ 11.04.2023 18:21:21 ] Mouse: Pos: [X: 1129, Y: 946] Action: WM_LBUTTONDOWN
+[ 11.04.2023 18:21:21 ] Mouse: Pos: [X: 1129, Y: 946] Action: WM_LBUTTONUP
+[ 11.04.2023 18:21:22 ] Mouse: Pos: [X: 1142, Y: 957] Action: WM_LBUTTONDOWN
+[ 11.04.2023 18:21:22 ] Mouse: Pos: [X: 1142, Y: 957] Action: WM_LBUTTONUP
+[ 11.04.2023 18:21:29 ] Mouse: Pos: [X: 1046, Y: 951] Action: WM_LBUTTONDOWN
+[ 11.04.2023 18:21:29 ] Mouse: Pos: [X: 1046, Y: 951] Action: WM_LBUTTONUP
+[ 11.04.2023 18:21:31 ] Mouse: Pos: [X: 1063, Y: 904] Action: WM_LBUTTONDOWN
+[ 11.04.2023 18:21:31 ] Mouse: Pos: [X: 1063, Y: 904] Action: WM_LBUTTONUP
+[ 11.04.2023 18:21:32 ] Mouse: Pos: [X: 1131, Y: 901] Action: WM_LBUTTONDOWN
+[ 11.04.2023 18:21:33 ] Mouse: Pos: [X: 1131, Y: 901] Action: WM_LBUTTONUP
+[ 11.04.2023 18:21:36 ] Mouse: Pos: [X: 1784, Y: 9] Action: WM_LBUTTONDOWN
+[ 11.04.2023 18:21:36 ] Mouse: Pos: [X: 1784, Y: 9] Action: WM_LBUTTONUP
+[ 11.04.2023 18:21:37 ] Mouse: Pos: [X: 1069, Y: 0] Action: WM_LBUTTONDOWN
+[ 11.04.2023 18:21:37 ] Mouse: Pos: [X: 1069, Y: 0] Action: WM_LBUTTONUP
+[ 11.04.2023 18:21:48 ] Mouse: Pos: [X: 709, Y: 949] Action: WM_LBUTTONDOWN
+[ 11.04.2023 18:21:49 ] Mouse: Pos: [X: 709, Y: 949] Action: WM_LBUTTONUP
+[ 11.04.2023 18:21:50 ] Mouse: Pos: [X: 1046, Y: 984] Action: WM_LBUTTONDOWN
+[ 11.04.2023 18:21:50 ] Mouse: Pos: [X: 1046, Y: 984] Action: WM_LBUTTONUP
+[ 11.04.2023 18:21:50 ] Keyboard: LShiftKey
+[ 11.04.2023 18:21:50 ] Keyboard: C
+[ 11.04.2023 18:21:51 ] Keyboard: L
+[ 11.04.2023 18:21:52 ] Keyboard: Back
+[ 11.04.2023 18:21:52 ] Keyboard: Back
+[ 11.04.2023 18:21:52 ] Keyboard: Back
+[ 11.04.2023 18:21:53 ] Keyboard: LShiftKey
+[ 11.04.2023 18:21:53 ] Keyboard: C
+[ 11.04.2023 18:21:54 ] Keyboard: L
+[ 11.04.2023 18:21:54 ] Keyboard: F
+[ 11.04.2023 18:21:54 ] Keyboard: K
+[ 11.04.2023 18:21:55 ] Keyboard: Space
+[ 11.04.2023 18:21:55 ] Keyboard: J
+[ 11.04.2023 18:21:56 ] Keyboard: C
+[ 11.04.2023 18:21:57 ] Keyboard: Return
+[ 11.04.2023 18:22:10 ] Mouse: Pos: [X: 1181, Y: 983] Action: WM_LBUTTONDOWN
+[ 11.04.2023 18:22:10 ] Mouse: Pos: [X: 1181, Y: 983] Action: WM_LBUTTONUP
+[ 11.04.2023 18:22:11 ] Keyboard: LShiftKey
+[ 11.04.2023 18:22:11 ] Keyboard: T
+[ 11.04.2023 18:22:11 ] Keyboard: O
+[ 11.04.2023 18:22:13 ] Keyboard: Q
+[ 11.04.2023 18:22:13 ] Keyboard: Space
+[ 11.04.2023 18:22:14 ] Keyboard: Back
+[ 11.04.2023 18:22:14 ] Keyboard: Back
+[ 11.04.2023 18:22:15 ] Keyboard: Oemtilde
+[ 11.04.2023 18:22:15 ] Keyboard: Space
+[ 11.04.2023 18:22:16 ] Keyboard: Y
+[ 11.04.2023 18:22:16 ] Keyboard: T
+[ 11.04.2023 18:22:16 ] Keyboard: N
+[ 11.04.2023 18:22:17 ] Keyboard: OemQuestion
+[ 11.04.2023 18:22:17 ] Keyboard: Space
+[ 11.04.2023 18:22:18 ] Keyboard: LShiftKey
+[ 11.04.2023 18:22:18 ] Keyboard: D
+[ 11.04.2023 18:22:18 ] Keyboard: J
+[ 11.04.2023 18:22:19 ] Keyboard: N
+[ 11.04.2023 18:22:19 ] Keyboard: Space
+[ 11.04.2023 18:22:19 ] Keyboard: C
+[ 11.04.2023 18:22:20 ] Keyboard: L
+[ 11.04.2023 18:22:20 ] Keyboard: T
+[ 11.04.2023 18:22:20 ] Keyboard: K
+[ 11.04.2023 18:22:21 ] Keyboard: F
+[ 11.04.2023 18:22:21 ] Keyboard: OemPeriod
+[ 11.04.2023 18:22:21 ] Keyboard: Space
+[ 11.04.2023 18:22:22 ] Keyboard: V
+[ 11.04.2023 18:22:22 ] Keyboard: F
+[ 11.04.2023 18:22:22 ] Keyboard: N
+[ 11.04.2023 18:22:22 ] Keyboard: K
+[ 11.04.2023 18:22:23 ] Keyboard: F
+[ 11.04.2023 18:22:23 ] Keyboard: Oemcomma
+[ 11.04.2023 18:22:24 ] Keyboard: Return
+[ 11.04.2023 18:22:31 ] Mouse: Pos: [X: 1409, Y: 849] Action: WM_LBUTTONDOWN
+[ 11.04.2023 18:22:31 ] Mouse: Pos: [X: 1409, Y: 849] Action: WM_LBUTTONUP
+[ 11.04.2023 18:22:32 ] Keyboard: LShiftKey
+[ 11.04.2023 18:22:33 ] Keyboard: F
+[ 11.04.2023 18:22:33 ] Keyboard: RShiftKey
+[ 11.04.2023 18:22:33 ] Keyboard: OemQuestion
+[ 11.04.2023 18:22:34 ] Keyboard: Back
+[ 11.04.2023 18:22:34 ] Keyboard: Return
+[ 11.04.2023 18:22:38 ] Mouse: Pos: [X: 1413, Y: 731] Action: WM_LBUTTONDOWN
+[ 11.04.2023 18:22:38 ] Mouse: Pos: [X: 1413, Y: 731] Action: WM_LBUTTONUP
+[ 11.04.2023 18:22:39 ] Mouse: Pos: [X: 1127, Y: 997] Action: WM_LBUTTONDOWN
+[ 11.04.2023 18:22:39 ] Mouse: Pos: [X: 1127, Y: 997] Action: WM_LBUTTONUP
+[ 11.04.2023 18:22:40 ] Keyboard: LShiftKey
+[ 11.04.2023 18:22:40 ] Keyboard: P
+[ 11.04.2023 18:22:40 ] Keyboard: Back
+[ 11.04.2023 18:22:40 ] Keyboard: Back
+[ 11.04.2023 18:22:41 ] Keyboard: LShiftKey
+[ 11.04.2023 18:22:41 ] Keyboard: OemOpenBrackets
+[ 11.04.2023 18:22:41 ] Keyboard: V
+[ 11.04.2023 18:22:41 ] Keyboard: V
+[ 11.04.2023 18:22:42 ] Keyboard: Back
+[ 11.04.2023 18:22:42 ] Keyboard: Back
+[ 11.04.2023 18:22:42 ] Keyboard: Back
+[ 11.04.2023 18:22:42 ] Keyboard: Back
+[ 11.04.2023 18:22:43 ] Keyboard: LShiftKey
+[ 11.04.2023 18:22:43 ] Keyboard: D
+[ 11.04.2023 18:22:43 ] Keyboard: Space
+[ 11.04.2023 18:22:44 ] Keyboard: Back
+[ 11.04.2023 18:22:44 ] Keyboard: Back
+[ 11.04.2023 18:22:44 ] Keyboard: Back
+[ 11.04.2023 18:22:45 ] Keyboard: Back
+[ 11.04.2023 18:22:45 ] Keyboard: LShiftKey
+[ 11.04.2023 18:22:45 ] Keyboard: J
+[ 11.04.2023 18:22:46 ] Keyboard: Y
+[ 11.04.2023 18:22:46 ] Keyboard: Space
+[ 11.04.2023 18:22:46 ] Keyboard: E
+[ 11.04.2023 18:22:47 ] Keyboard: Space
+[ 11.04.2023 18:22:48 ] Keyboard: V
+[ 11.04.2023 18:22:48 ] Keyboard: T
+[ 11.04.2023 18:22:48 ] Keyboard: Y
+[ 11.04.2023 18:22:49 ] Keyboard: Z
+[ 11.04.2023 18:22:49 ] Keyboard: Space
+[ 11.04.2023 18:22:49 ] Keyboard: Y
+[ 11.04.2023 18:22:50 ] Keyboard: B
+[ 11.04.2023 18:22:50 ] Keyboard: R
+[ 11.04.2023 18:22:50 ] Keyboard: J
+[ 11.04.2023 18:22:50 ] Keyboard: U
+[ 11.04.2023 18:22:50 ] Keyboard: L
+[ 11.04.2023 18:22:51 ] Keyboard: F
+[ 11.04.2023 18:22:51 ] Keyboard: Space
+[ 11.04.2023 18:22:51 ] Keyboard: Y
+[ 11.04.2023 18:22:52 ] Keyboard: B
+[ 11.04.2023 18:22:52 ] Keyboard: X
+[ 11.04.2023 18:22:52 ] Keyboard: T
+[ 11.04.2023 18:22:53 ] Keyboard: U
+[ 11.04.2023 18:22:53 ] Keyboard: J
+[ 11.04.2023 18:22:53 ] Keyboard: Space
+[ 11.04.2023 18:22:53 ] Keyboard: Y
+[ 11.04.2023 18:22:53 ] Keyboard: T
+[ 11.04.2023 18:22:54 ] Keyboard: Space
+[ 11.04.2023 18:22:54 ] Keyboard: C
+[ 11.04.2023 18:22:54 ] Keyboard: G
+[ 11.04.2023 18:22:54 ] Keyboard: H
+[ 11.04.2023 18:22:55 ] Keyboard: F
+[ 11.04.2023 18:22:55 ] Keyboard: D
+[ 11.04.2023 18:22:55 ] Keyboard: Back
+[ 11.04.2023 18:22:55 ] Keyboard: O
+[ 11.04.2023 18:22:56 ] Keyboard: Back
+[ 11.04.2023 18:22:57 ] Keyboard: I
+[ 11.04.2023 18:22:58 ] Keyboard: B
+[ 11.04.2023 18:22:58 ] Keyboard: D
+[ 11.04.2023 18:22:58 ] Keyboard: F
+[ 11.04.2023 18:22:58 ] Keyboard: T
+[ 11.04.2023 18:22:59 ] Keyboard: N
+[ 11.04.2023 18:22:59 ] Keyboard: Return
+[ 11.04.2023 18:23:03 ] Mouse: Pos: [X: 154, Y: 0] Action: WM_LBUTTONDOWN
+[ 11.04.2023 18:23:03 ] Mouse: Pos: [X: 154, Y: 0] Action: WM_LBUTTONUP
+[ 11.04.2023 18:23:04 ] Mouse: Pos: [X: 487, Y: 284] Action: WM_LBUTTONDOWN
+[ 11.04.2023 18:23:04 ] Mouse: Pos: [X: 487, Y: 284] Action: WM_LBUTTONUP
+[ 11.04.2023 18:23:06 ] Keyboard: VolumeDown
+[ 11.04.2023 18:23:07 ] Keyboard: VolumeDown
+[ 11.04.2023 18:23:08 ] Keyboard: VolumeDown
+[ 11.04.2023 18:23:08 ] Keyboard: VolumeDown
+[ 11.04.2023 18:23:18 ] Keyboard: VolumeDown
+[ 11.04.2023 18:23:33 ] Mouse: Pos: [X: 1049, Y: 432] Action: WM_LBUTTONDOWN
+[ 11.04.2023 18:23:33 ] Mouse: Pos: [X: 1049, Y: 432] Action: WM_LBUTTONUP
+[ 11.04.2023 18:24:15 ] Mouse: Pos: [X: 953, Y: 479] Action: WM_LBUTTONDOWN
+[ 11.04.2023 18:24:16 ] Mouse: Pos: [X: 953, Y: 479] Action: WM_LBUTTONUP
+[ 11.04.2023 18:28:39 ] Keyboard: Space
+[ 11.04.2023 18:29:15 ] Keyboard: Space
+[ 11.04.2023 18:29:18 ] Mouse: Pos: [X: 1144, Y: 842] Action: WM_LBUTTONDOWN
+[ 11.04.2023 18:29:19 ] Mouse: Pos: [X: 1144, Y: 842] Action: WM_LBUTTONUP
+[ 11.04.2023 18:29:19 ] Mouse: Pos: [X: 1221, Y: 783] Action: WM_LBUTTONDOWN
+[ 11.04.2023 18:29:20 ] Mouse: Pos: [X: 1221, Y: 783] Action: WM_LBUTTONUP
+[ 11.04.2023 18:29:21 ] Mouse: Pos: [X: 1231, Y: 551] Action: WM_LBUTTONDOWN
+[ 11.04.2023 18:29:22 ] Mouse: Pos: [X: 1231, Y: 551] Action: WM_LBUTTONUP
+[ 11.04.2023 18:29:25 ] Mouse: Pos: [X: 1222, Y: 522] Action: WM_LBUTTONDOWN
+[ 11.04.2023 18:29:25 ] Mouse: Pos: [X: 1222, Y: 522] Action: WM_LBUTTONUP
+[ 11.04.2023 18:30:09 ] Keyboard: Space
+[ 11.04.2023 18:31:42 ] Mouse: Pos: [X: 1765, Y: 52] Action: WM_LBUTTONDOWN
+[ 11.04.2023 18:31:43 ] Mouse: Pos: [X: 1765, Y: 52] Action: WM_LBUTTONUP
+[ 11.04.2023 18:31:44 ] Mouse: Pos: [X: 1709, Y: 205] Action: WM_LBUTTONDOWN
+[ 11.04.2023 18:31:44 ] Mouse: Pos: [X: 1709, Y: 205] Action: WM_LBUTTONUP
+[ 11.04.2023 18:31:46 ] Mouse: Pos: [X: 1149, Y: 854] Action: WM_LBUTTONDOWN
+[ 11.04.2023 18:31:46 ] Mouse: Pos: [X: 1149, Y: 854] Action: WM_LBUTTONUP
+[ 11.04.2023 18:31:47 ] Mouse: Pos: [X: 1231, Y: 778] Action: WM_LBUTTONDOWN
+[ 11.04.2023 18:31:47 ] Mouse: Pos: [X: 1231, Y: 778] Action: WM_LBUTTONUP
+[ 11.04.2023 18:31:49 ] Mouse: Pos: [X: 1180, Y: 538] Action: WM_LBUTTONDOWN
+[ 11.04.2023 18:31:49 ] Mouse: Pos: [X: 1180, Y: 538] Action: WM_LBUTTONUP
+[ 11.04.2023 18:31:56 ] Mouse: Pos: [X: 1214, Y: 1006] Action: WM_LBUTTONDOWN
+[ 11.04.2023 18:31:56 ] Mouse: Pos: [X: 1214, Y: 1006] Action: WM_LBUTTONUP
+[ 11.04.2023 18:31:58 ] Mouse: Pos: [X: 697, Y: 456] Action: WM_LBUTTONDOWN
+[ 11.04.2023 18:31:58 ] Mouse: Pos: [X: 697, Y: 456] Action: WM_LBUTTONUP
